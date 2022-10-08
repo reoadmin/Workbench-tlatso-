@@ -1,4 +1,4 @@
-# 1st Workbench
+# Workbench_Matrix Array
 ________________________________________________________________________________________
 Hi, my name is Clatso Qual (tlatso tsebe).
 I'm a third year computer Science student in UB (University of Botswana).
