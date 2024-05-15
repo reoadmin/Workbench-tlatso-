@@ -1,6 +1,6 @@
 # Workbench_Matrix Array
 ________________________________________________________________________________________
-Hi, my name is Tlatso Tsebe.
+Hi, my name is Tlatso Tsebe. 
 As of 2022, I'm a third year computer Science student in UB (University of Botswana).
 I like Calculus, Algorithms and Data Structures in Java as well as the Haskell Language.
 ________________________________________________________________________________________
